@@ -22,7 +22,7 @@ This project demonstrates how to deploy a simple static website to **Github Page
 
 Once deployed, the site will be available at :
 
-https://mackle.github.io/gh-deployment-workflow/
+https://spades-mnt.github.io/gh-deployment-workflow/
 
 
 
